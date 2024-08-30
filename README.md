@@ -1,20 +1,20 @@
 # Aarakis_YashRohilla_RA2211003010121
 
-Aarakis
+Aarakis <br />
 
-Team Member Details:
-Team Leader Details:
-Name:Yash Rohilla
-Reg No: RA2211003010121
-Email ID: yr5016@srmist.edu.in
+Team Member Details: <br />
+Team Leader Details: <br />
+Name:Yash Rohilla  <br />
+Reg No: RA2211003010121  <br />
+Email ID: yr5016@srmist.edu.in  <br />
 
-Team Member 2: Anshul Rohilla
-Team Member 3: Yash Rohilla
+Team Member 2: Anshul Rohilla <br />
+Team Member 3: Yash Rohilla <br />
 
-Track Name 
-Realistic Face Generation and Deepfake Speech Synthesis
+Track Name  <br />
+Realistic Face Generation and Deepfake Speech Synthesis <br />
 
-Problem Statement:
+Problem Statement: <br />
 Creating realistic digital avatars has traditionally been a
 challenging and resource-intensive process.
 Current methods, such as CGI and manual animation, are not
@@ -25,7 +25,7 @@ industries, from content creation to interactive virtual
 assistants, yet existing solutions often fall short in delivering
 high-quality results.
 
-Introduction:
+Introduction: <br />
 Advancements in artificial intelligence, particularly in the fields of
 generative models and deepfake technologies, have made it possible
 to create synthetic faces that look strikingly real. We aim to harness
@@ -34,7 +34,7 @@ these advancements by using Generative Adversarial Networks
 these generated faces with deepfake techniques to animate them to
 speak given text inputs in a highly realistic manner.
 
-Proposed Solution:
+Proposed Solution: <br />
 Our proposed solution leverages advanced AI models to
 create a seamless and highly realistic digital avatar
 experience. By using GAN, we generate high-resolution
