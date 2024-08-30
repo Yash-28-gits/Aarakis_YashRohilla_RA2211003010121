@@ -9,7 +9,7 @@ Reg No: RA2211003010121  <br />
 Email ID: yr5016@srmist.edu.in  <br />
 
 Team Member 2: Anshul Rohilla <br />
-Team Member 3: Yash Rohilla <br />
+Team Member 3: Tanveer Singh <br />
 
 Track Name  <br />
 Realistic Face Generation and Deepfake Speech Synthesis <br />
